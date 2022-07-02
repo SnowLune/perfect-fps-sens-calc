@@ -3,13 +3,6 @@
 ## Description
 A simple program that lists 1:1 sensitivities across my three main FPS games.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
 ## Installation
 Compile with any C compiler. This program is written in C90.
 
